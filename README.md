@@ -1,11 +1,11 @@
-![gif](https://github.com/jaikydota/Android-LoadingAnimation/blob/master/LoadingAnimation/demo-resourse/demo.gif)  
+![gif](https://github.com/jaikydota/Android-FaceLoadingView/blob/master/Demo/GIF.gif)  
 
 
-# LoadingAnimation
+# Android-FaceLoadingView
 This Project is about with Android Animation and loading Animation.<br>
 
-Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098833<br>
-项目中文博客地址：http://blog.csdn.net/jaikydota163/article/details/52098833<br>
+Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098851<br>
+项目中文博客地址：http://blog.csdn.net/jaikydota163/article/details/52098851<br>
 
 
 ###*About Information*
