@@ -2,15 +2,16 @@
 
 
 # Android-FaceLoadingView
-This Project is about with Android Animation and loading Animation.<br>
+This project is about with Android Animation and loading Animation.<br>
 
 Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098851<br>
 项目中文博客地址：http://blog.csdn.net/jaikydota163/article/details/52098851<br>
 
 
 ###*About Information*
-Hi My Friends!<br>
-This is a very simple small Project. Please Download it And Copy to your Android Studio.<br>
-Using this Demo, you will know how to Achieve.<br>
-And My English is very bad, So I can only write so many.<br>
+Hello my friends!<br>
+This is a very simple small project, so I don't upload it to 'jcenter' or 'Maven Center'.
+Please download it and deploy to your Android Studio.<br>
+Using this demo, you will know how to achieve.<br>
+And my english is very bad, so I can only write so many.<br>
 Hope there is no syntax error?<br>
